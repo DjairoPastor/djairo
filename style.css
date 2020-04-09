@@ -1,0 +1,11 @@
+html {
+  font-family: arial;
+  text-align: center;
+  color: darkblue;
+  background-color: lightblue;
+}
+body {
+background-color: white;
+height: 600px;
+padding: 50px;
+}
